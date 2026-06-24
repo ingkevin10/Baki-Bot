@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=2000&color=00FFE0&center=true&vCenter=true&width=600&height=80&lines=Z%CE%9EN-BOT+%F0%9F%A4%96;WhatsApp+Bot+Base;by+AXELDEV09" alt="ZΞN-BOT"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=2000&color=00FFE0&center=true&vCenter=true&width=600&height=80&lines=Z%CE%9EN-BOT+%F0%9F%A4%96;WhatsApp+Bot+Base;by+AXELDEV09" alt="𝐁𝐀𝐊𝐈-𝐁𝐎𝐓"/>
 </div>
 
 <div align="center">
