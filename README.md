@@ -146,7 +146,7 @@ Si el proyecto te sirve, dejá una estrella — ayuda un montón al desarrollo c
 
 <div align="center">
 
-Base desarrollada por **AXELDEV09**
+Base desarrollada por **ING_KEVIM**
 
 <br/>
 
